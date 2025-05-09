@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imAnmolShukla
 - 👀 I’m interested in ...coding,anytime,anywhere
-- 🌱 I’m currently learning ...Javascript
+- 🌱 I’m currently learning ...Machine Learning,AI,Python
 - 💞️ I’m looking to collaborate on ...helpful projects that would build my CV
 - 📫 How to reach me ... email me @shuklaanmol26@gmail.com
 
